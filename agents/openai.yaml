@@ -1,0 +1,4 @@
+interface:
+  display_name: "e:cue LAS e:script"
+  short_description: "Write practical LAS e:script control macros"
+  default_prompt: "Use $ecue-las-escript to design and write an e:cue LAS e:script macro for cuelist, Action Pad, trigger, or DMX control."
